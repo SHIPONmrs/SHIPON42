@@ -1,4 +1,4 @@
-# Decoded By XNX Team
+# Decoded By NekoPoi Team
 # Source Code :
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
@@ -144,7 +144,7 @@ def banner():
 	cik2=mark(wel ,style='cyan')
 	sol().print(cik2)
 	ban='''
-•   AUTHOR  :MRS_SHIPON&WHATSAPP : +8801773276144  •       
+•   AUTHOR  :Vicky_O'Reilly&WHATSAPP : Fsociety  •       
 $$\      $$\ $$$$$$$\   $$$$$$\  
 $$$\    $$$ |$$  __$$\ $$  __$$\ 
 $$$$\  $$$$ |$$ |  $$ |$$ /  \__|
